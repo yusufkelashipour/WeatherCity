@@ -1,4 +1,4 @@
-CityWeather is a dynamic weather application designed to provide real-time weather information for cities worldwide. Built with HTML, CSS, JavaScript, and React, this app allows users to quickly access data on temperature, humidity, and wind conditions.
+WeatherCity is a dynamic weather application designed to provide real-time weather information for cities worldwide. Built with HTML, CSS, JavaScript, and React, this app allows users to quickly access data on temperature, humidity, and wind conditions.
 
 Features
 Real-Time Data: Fetches and displays current weather data using a weather API.
